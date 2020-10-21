@@ -1,0 +1,13 @@
+img{
+  width: 300px;
+  height: auto;
+}
+
+table, td{
+  border: black 1px solid;
+  text-align: center;
+  font-size: 1.2em;
+}
+td{
+  padding: 5px;
+}
